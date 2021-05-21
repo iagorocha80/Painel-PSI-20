@@ -1,0 +1,3 @@
+- No diretorio "htdocs" estão os ficheiros da interface web
+- O ficheiro "API-Client.py" insere novos dados na BD
+- O ficheiro "DB-tp-a66453" é um dump da Bd contendo a estrutura da mesma e dados
